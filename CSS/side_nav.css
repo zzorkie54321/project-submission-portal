@@ -1,0 +1,38 @@
+.side_nav{
+   
+    width: 14%;
+    position: fixed;
+    height: 100%;
+   
+    box-shadow: 5px 0 5px -5px grey;
+}
+ul{
+    list-style-type: none;
+    font-family: sans-serif;
+   
+}
+*{
+    margin: 0;
+}
+.side_links{
+    position: relative;
+    top: 180px;
+}
+.side_links>li{
+    margin-bottom: 20px;
+    
+}
+
+.side_links>li>a{
+    color: black;
+    text-decoration: none;
+}
+
+.iconn{
+    position: relative;
+    top: 10px;
+    margin-right: 380px;
+    font-size: 27px;
+    font-family: 'Roboto Slab', serif;
+ 
+}

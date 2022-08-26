@@ -1,0 +1,26 @@
+.footer{
+    display: flex;
+    font-family: sans-serif;
+    justify-content: space-evenly;
+    box-shadow: 0 -5px 5px -5px grey;
+    padding-top: 80px;
+    padding-bottom: 60px;
+    background-color: whitesmoke;
+ 
+
+}
+
+b{
+    font-size: 17px;
+}
+.iconn{
+    position: relative;
+    top: -10px;
+    margin-right: 380px;
+    font-size: 27px;
+    font-family: 'Roboto Slab', serif;
+ 
+}
+.middle{
+    margin-right: 300px;
+}
