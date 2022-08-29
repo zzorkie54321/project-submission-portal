@@ -5,7 +5,7 @@
     justify-content: center;
     align-items: center;
     position: absolute;
-    height: 55%;
+    height: 30%;
 }
 
 input{
@@ -27,7 +27,7 @@ form{
     
 
 }
-.register_text{
+.login_text{
     text-align: center;
     margin-top: 60px;
     font-family: sans-serif;
@@ -36,7 +36,7 @@ form{
     letter-spacing: 2px;
 }
 
-.signup_button{
+.login_button{
     border: none;
     box-shadow: 0 0 3px grey;
     width: 101%;
@@ -47,6 +47,6 @@ form{
     font-size: 15px;
     
 }
-.signup_button{
+.login_button{
     opacity: 0,8;
 }

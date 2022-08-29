@@ -14,7 +14,7 @@
     <nav class="index_nav">
         <span class="icon">CRITAC</span>
         <a class="index_nav_link1" href="index.php">Home</a>
-        <a class="index_nav_link2" href="#">Login</a>
+        <a class="index_nav_link2" href="user_login.php">Login</a>
     </nav> 
 </body>
 </html>

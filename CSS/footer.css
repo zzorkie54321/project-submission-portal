@@ -1,26 +1,39 @@
 .footer{
     display: flex;
     font-family: sans-serif;
-    justify-content: space-evenly;
+    justify-content: space-between;
     box-shadow: 0 -5px 5px -5px grey;
-    padding-top: 80px;
-    padding-bottom: 60px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    
+    padding-left: 80px;
+    padding-right: 80px;
     background-color: whitesmoke;
- 
+    
 
+}
+body{
+    overflow-x: hidden;
 }
 
 b{
     font-size: 17px;
 }
 .iconn{
-    position: relative;
+    /* position: relative;
     top: -10px;
-    margin-right: 380px;
+    margin-right: 380px; */
     font-size: 27px;
     font-family: 'Roboto Slab', serif;
  
 }
-.middle{
+/* .middle{
     margin-right: 300px;
+} */
+@media screen and (max-width: 552px) {
+    footer{
+    
+        flex-wrap: wrap;
+    }
+    
 }

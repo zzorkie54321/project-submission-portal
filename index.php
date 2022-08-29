@@ -18,7 +18,7 @@
     <section class="flex_container">
         <div class="div_sub_one">
             <span class="div_sub_one_text">Project Submission <br>Portal<br>
-            <a class="register_button" href="register.php">Register</a>
+            <a class="register_button" href="user_signup.php">Register</a>
             </span>
         </div>
 

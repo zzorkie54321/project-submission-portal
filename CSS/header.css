@@ -4,8 +4,12 @@
     height: 60px;
     background-color: whitesmoke;
     box-shadow: 0 5px 5px -5px grey;
+    position: sticky;
    
     
+}
+body{
+    overflow-x: hidden;
 }
 .index_nav_link1{
     font-family: sans-serif;
@@ -22,7 +26,7 @@
     color: black;
     float: right;
     position: relative;
-    top: 20px;
+    top: 23px;
     margin-right: 95px;
     
 }
@@ -36,4 +40,11 @@
 }
 body{
     margin: 0;
+}
+
+@media screen and (max-width: 552px) {
+    .index_nav_link2{
+        color: red;    
+    }
+    
 }
